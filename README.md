@@ -1,6 +1,6 @@
 
 # GenZ Hiring
-ATS Scorer based on Large Language Models (LLM)
+ LLM Based Resume Enhancer and Scorer
 
 https://github.com/raghavtwenty/genz-hiring/assets/126254197/e231b062-bc29-40d4-b483-c1db468cdf76
 
